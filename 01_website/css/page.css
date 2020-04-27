@@ -1,4 +1,4 @@
-.testBox{
++.testBox{
 	background-color: #d5d9de;
 	border: 1px solid #a9acb0;
 	padding: 10px 20px;
@@ -32,6 +32,10 @@
 	background-color: #424243;
 	height: 250px;
 	color: #fff;
+	/*
+	https://developer.mozilla.org/en-US/docs/Web/CSS/font-size
+	rem values were invented in order to sidestep the compounding problem. rem values are relative to the root html element, not the parent element. In other words, it lets you specify a font size in a relative fashion without being affected by the size of the parent, thereby eliminating compounding
+	*/
 	font-size: .8rem;
 }
 
