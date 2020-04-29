@@ -116,6 +116,7 @@ body{
 	border-radius: 15px;
 	box-shadow: 0 0 8px rgba(0,0,0,.2);
 	background-color: #fff;	
+	width: 160px
 }
 
 #leaderBoard .modal-content{
