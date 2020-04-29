@@ -15,8 +15,7 @@ var score = 0;
 var selectedPoints = 0;
 
 // Show questions
-function showQuestion(e){
-	
+function showQuestion(e) {
 	switch(e){
 		case 1:
 			// Populate question data
